@@ -12,7 +12,7 @@ proyecto de administrador de **redes**
   
 |   Comando      |        Codigo                 |Codigo                       |
 |----------------|-------------------------------|-----------------------------|
-| Bash                   ls -lah                 |cd directorio            |
+| Bash           |ls -lah                        |cd directorio                |
 
 ---
 ```bash
